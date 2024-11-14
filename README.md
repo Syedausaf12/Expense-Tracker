@@ -28,7 +28,7 @@ An expense tracker built with the MERN (MongoDB, Express, React, Node.js) stack.
    cd expense-tracker
    ```
 2. **Backend Setup:**:
-   -- Navigate to the backend directory:
+   --Navigate to the backend directory:
    ```bash
    cd backend
    ```
