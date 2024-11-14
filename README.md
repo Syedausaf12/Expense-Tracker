@@ -24,7 +24,31 @@ An expense tracker built with the MERN (MongoDB, Express, React, Node.js) stack.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone [https://github.com/your-username/expense-tracker.git](https://github.com/Syedausaf12/Expense-Tracker)
    cd expense-tracker
    ```
+2. **Backend Setup:**:
+   -- Navigate to the backend directory:
+   ```bash
+   cd backend
+   ```
+
+   -- Install dependencies:
+   ```bash
+   npm install
+   ```
+
+   --Set up environment variables in .env file:
+   ```bash
+   MONGO_URI=your-mongodb-connection-string
+   JWT_SECRET=your-secret-key
+   ```
+
+   --Start the backend server:
+   ```bash
+   npm start
+   ```
+   
+   
+
    
